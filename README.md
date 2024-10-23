@@ -73,6 +73,7 @@
 
    ```bash
    TMDB_API_KEY=your-tmdb-api-key
+   FRONTEND_URL=https://your-frontend-url
    ```
 
 4. Start the backend:
