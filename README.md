@@ -4,6 +4,10 @@
 
 **My Moviz** is a full-stack web app that displays the latest movie releases. Users can add movies to their favorites, manage a view counter, and rate each presented film.
 
+## Live Demo
+
+Visit the live application at: [https://lacapsule-mymoviz-frontend.vercel.app](https://lacapsule-mymoviz-frontend.vercel.app)
+
 ## Features
 
 - **Movie Listings**: View the latest movie releases.
